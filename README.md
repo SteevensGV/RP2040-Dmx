@@ -1,2 +1,4 @@
 # RP2040-Dmx
-Proyecto RP2040 Dmx Visual Studio Code 
+Project RP2040 Dmx using PIO. 
+Open in Visual Studio Code. 
+thanks to library jostlowe/Pico-DMX.
